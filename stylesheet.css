@@ -1,0 +1,48 @@
+body {
+  background-image: url(https://media.tenor.com/OWavF62qCpEAAAAC/night-sky-tranquilo.gif);
+  text-align: center;
+}
+h1 {
+  color: white;
+  font-size: 50px;
+  font-family: "Press Start 2P";
+  padding: 30px 20px 30px 20px;
+  margin: 25px 500px 0px 500px;
+}
+
+p {
+  color: white;
+  font-size: 30px;
+  font-family: fantasy;
+  margin: 25px 500px 0px 500px;
+}
+#specialh1 {
+  color: rgb(165, 240, 41);
+  background-image: url(https://media.tenor.com/OWavF62qCpEAAAAC/night-sky-tranquilo.gif);
+  font-size: 70px;
+  font-family: "Press Start 2P";
+  padding: 30px 20px 30px 20px;
+  margin: 25px 200px 0px 200px;
+}
+#specialp {
+  color: white;
+  font-size: 40px;
+  font-family: fantasy;
+  font-style: italic;
+  margin: 25px 500px 0px 500px;
+}
+ul {
+  color: white;
+  font-size: 30px;
+  font-family: fantasy;
+  text-align: left;
+  margin: 25px 500px 0px 500px;
+}
+h2 {
+  color: white;
+  font-size: 50px;
+  font-family: "Press Start 2P";
+  padding: 20px 20px 20px 20px;
+  margin: 30px 500px 30px 500px;
+  background-image: url(https://media.tenor.com/OWavF62qCpEAAAAC/night-sky-tranquilo.gif);
+}
